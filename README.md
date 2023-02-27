@@ -1,5 +1,5 @@
 # Tang9 
----
+
 Macropad based on the [Scotto9](https://github.com/joe-scotto/scottokeebs/tree/main/Scotto9)
 ![Scotto9](https://imgur.com/inbmNSE.jpeg)
 
@@ -9,7 +9,7 @@ A 9 key handwired macropad. Case files available [here](https://github.com/joe-s
 -   Hardware Availability: [Amazon](https://amazon.com)
 
 # VIA Support
----
+
 [VIA Web](https://usevia.app/)
 
 - Connect macropad to computer
@@ -24,7 +24,7 @@ A 9 key handwired macropad. Case files available [here](https://github.com/joe-s
 - Customize your keymappings!
 
 # Bootloader
----
+
 Uses [bootmagic](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_bootmagic.md) allowing you to hold the top left key (0, 0) when plugging the board in to enter bootloader mode.
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
