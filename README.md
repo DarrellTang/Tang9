@@ -1,6 +1,6 @@
 # Tang9 
 ---
-Macropad based on the Scotto9
+Macropad based on the [Scotto9](https://github.com/joe-scotto/scottokeebs/tree/main/Scotto9)
 ![Scotto9](https://imgur.com/inbmNSE.jpeg)
 
 A 9 key handwired macropad. Case files available [here](https://github.com/joe-scotto/keyboards.git).
